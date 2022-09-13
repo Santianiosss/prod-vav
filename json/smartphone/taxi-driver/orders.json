@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3648423,
+    "passengerName": "Vasek [GM]",
+    "distanceToDeparturePoint": 310,
+    "timeToDeparturePoint": 21
+  },
+  {
+    "id": 3648513,
+    "passengerName": "James",
+    "distanceToDeparturePoint": 1354,
+    "timeToDeparturePoint": 42
+  },
+  {
+    "id": 3648516,
+    "passengerName": "Masha",
+    "distanceToDeparturePoint": 957,
+    "timeToDeparturePoint": 95
+  },
+  {
+    "id": 3648932,
+    "passengerName": "Green",
+    "distanceToDeparturePoint": 429,
+    "timeToDeparturePoint": 129
+  },
+  {
+    "id": 3648985,
+    "passengerName": "Halk",
+    "distanceToDeparturePoint": 1509,
+    "timeToDeparturePoint": 150
+  }
+]

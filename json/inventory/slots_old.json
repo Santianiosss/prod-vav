@@ -1,0 +1,146 @@
+{
+  "glass": {
+    "id": "glass",
+    "title": "Очки",
+    "icon": "items/glasses.svg",
+    "acceptable":{
+      "categories": [1]
+    }
+  },
+  "pendant": {
+    "id": "pendant",
+    "title": "Кулон",
+    "icon": "items/necklace.svg",
+    "acceptable":{
+      "categories": [2]
+    }
+  },
+  "tie": {
+    "id": "tie",
+    "title": "Галстук",
+    "icon": "items/tie.svg",
+    "acceptable":{
+      "categories": [3]
+    }
+  },
+  "watch": {
+    "id": "watch",
+    "title": "Часы",
+    "icon": "items/watch.svg",
+    "acceptable":{
+      "categories": [4]
+    }
+  },
+  "gloves": {
+    "id": "gloves",
+    "title": "Перчатки",
+    "icon": "items/gloves.svg",
+    "acceptable":{
+      "categories": [5]
+    }
+  },
+  "smartphone": {
+    "id": "smartphone",
+    "title": "Телефон",
+    "icon": "items/smartphone.svg",
+    "acceptable":{
+      "categories": [6]
+    }
+  },
+  "backpack": {
+    "id": "backpack",
+    "title": "Рюкзак",
+    "icon": "items/backpack.svg",
+    "acceptable":{
+      "categories": [7]
+    }
+  },
+  "cap": {
+    "id": "cap",
+    "title": "Кепка",
+    "icon": "items/cap.svg",
+    "acceptable":{
+      "categories": [8]
+    }
+  },
+  "scarf": {
+    "id": "scarf",
+    "title": "Шарф",
+    "icon": "items/scarf.svg",
+    "acceptable":{
+      "categories": [9]
+    }
+  },
+  "earrings": {
+    "id": "earrings",
+    "title": "Серьги",
+    "icon": "items/earring.svg",
+    "acceptable":{
+      "categories": [10]
+    }
+  },
+  "hoody": {
+    "id": "hoody",
+    "title": "Толстовка",
+    "icon": "items/hoody.svg",
+    "acceptable":{
+      "categories": [11]
+    }
+  },
+  "jacket": {
+    "id": "jacket",
+    "title": "Куртка",
+    "icon": "items/jacket.svg",
+    "acceptable":{
+      "categories": [12]
+    }
+  },
+  "bulletproofVest": {
+    "id": "bulletproofVest",
+    "title": "Бронежилет",
+    "icon": "items/bulletproof-vest.svg",
+    "acceptable":{
+      "categories": [13]
+    }
+  },
+  "pants": {
+    "id": "pants",
+    "title": "Штаны",
+    "icon": "items/trousers.svg",
+    "acceptable":{
+      "categories": [14]
+    }
+  },
+  "footwear": {
+    "id": "footwear",
+    "title": "Обувь",
+    "icon": "items/footwear.svg",
+    "acceptable":{
+      "categories": [15]
+    }
+  },
+  "knife": {
+    "id": "knife",
+    "title": "Ножи",
+    "icon": "items/gloves.svg",
+    "acceptable":{
+      "categories": [16]
+    }
+  },
+  "pistol": {
+    "id": "pistol",
+    "title": "Пистолеты",
+    "icon": "items/gloves.svg",
+    "acceptable":{
+      "categories": [17]
+    }
+  },
+  "gun": {
+    "id": "gun",
+    "title": "Автоматы",
+    "icon": "items/gloves.svg",
+    "acceptable":{
+      "categories": [18]
+    }
+  }
+}

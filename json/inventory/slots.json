@@ -1,0 +1,87 @@
+{
+  "accessories": {
+    "id": "accessories",
+    "title": "Украшение",
+    "icon": "items/tie.svg"
+  },
+  "backpack": {
+    "id": "backpack",
+    "title": "Сумка или рюкзак",
+    "icon": "items/backpack.svg"
+  },
+  "bulletproofVest": {
+    "id": "bulletproofVest",
+    "title": "Бронежилет",
+    "icon": "items/bulletproof-vest.svg"
+  },
+  "bracelet": {
+    "id": "bracelet",
+    "title": "Браслет",
+    "icon": "gear.svg"
+  },
+  "earrings": {
+    "id": "earrings",
+    "title": "Серьги",
+    "icon": "clothes/necklace-3.svg"
+  },
+  "glasses": {
+    "id": "glasses",
+    "title": "Очки",
+    "icon": "items/glasses.svg"
+  },
+  "gloves": {
+    "id": "gloves",
+    "title": "Перчатки",
+    "icon": "clothes/gloves.svg"
+  },
+  "cap": {
+    "id": "cap",
+    "title": "Головной убор",
+    "icon": "items/cap.svg"
+  },
+  "mask": {
+    "id": "mask",
+    "title": "Маска",
+    "icon": "gear.svg"
+  },
+  "hoody": {
+    "id": "hoody",
+    "title": "Верхняя одежда",
+    "icon": "items/hoody.svg"
+  },
+  "smartphone": {
+    "id": "smartphone",
+    "title": "Телефон",
+    "icon": "items/smartphone.svg"
+  },
+  "footwear": {
+    "id": "footwear",
+    "title": "Обувь",
+    "icon": "items/footwear.svg"
+  },
+  "pants": {
+    "id": "pants",
+    "title": "Штаны",
+    "icon": "items/trousers.svg"
+  },
+  "watch": {
+    "id": "watch",
+    "title": "Часы",
+    "icon": "items/watch.svg"
+  },
+  "weaponPrimary": {
+    "id": "weaponPrimary",
+    "title": "Основное оружие",
+    "icon": "gear.svg"
+  },
+  "weaponSecondary": {
+    "id": "weaponSecondary",
+    "title": "Дополнительное оружие",
+    "icon": "gear.svg"
+  },
+  "weaponMelee": {
+    "id": "weaponMelee",
+    "title": "Оружие ближнего боя",
+    "icon": "gear.svg"
+  }
+}

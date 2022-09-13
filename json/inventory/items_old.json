@@ -1,0 +1,337 @@
+{
+  "877989771": {
+    "id": 877989771,
+    "weight": 0.2,
+    "title": "Большой дилдо",
+    "categoryId": 100,
+    "iconGrig": "items/mask.svg",
+    "flags": ["isUsable"],
+    "slots": [
+      {
+        "id": "engine",
+        "title": "Мотор",
+        "capacity": 1,
+        "acceptable": {
+          "ids": ["124665681", "163625249", "454878707"]
+        }
+      },
+      {
+        "id": "spikes",
+        "title": "Шипы",
+        "capacity": 10,
+        "acceptable": {
+          "ids": ["630618139", "868900323"]
+        }
+      },
+      {
+        "id": "horns",
+        "title": "Усики",
+        "capacity": 2,
+        "acceptable": {
+          "ids": ["1259623218", "1930840676"]
+        }
+      },
+      {
+        "id": "fur",
+        "title": "Щекотунчики",
+        "capacity": 3,
+        "acceptable": {
+          "ids": ["1934688961"]
+        }
+      }
+    ]
+  },
+  "124665681": {
+    "id": 124665681,
+    "weight": 0.2,
+    "title": "Мотор от шуруповерта",
+    "categoryId": 101,
+    "flags": ["isDropable"]
+  },
+  "163625249": {
+    "id": 163625249,
+    "weight": 0.2,
+    "title": "Мотор от жигулей",
+    "categoryId": 101,
+    "flags": ["isDropable"]
+  },
+  "454878707": {
+    "id": 454878707,
+    "weight": 0.2,
+    "title": "Силовая установка авианосца",
+    "categoryId": 101,
+    "flags": ["isDropable"]
+  },
+  "630618139": {
+    "id": 630618139,
+    "weight": 0.2,
+    "title": "Колючки кактуса",
+    "categoryId": 102,
+    "flags": ["isDropable"]
+  },
+  "868900323": {
+    "id": 868900323,
+    "weight": 0.2,
+    "title": "Пики точеные",
+    "categoryId": 102,
+    "flags": ["isDropable"]
+  },
+  "1259623218": {
+    "id": 1259623218,
+    "weight": 0.2,
+    "title": "Усики с пимпочками",
+    "categoryId": 103,
+    "flags": ["isDropable"]
+  },
+  "1930840676": {
+    "id": 1930840676,
+    "weight": 0.2,
+    "title": "Усики с точечками",
+    "categoryId": 103,
+    "flags": ["isDropable"]
+  },
+  "1934688961": {
+    "id": 1934688961,
+    "weight": 0.2,
+    "title": "Супер щекотунчик",
+    "categoryId": 104,
+    "flags": ["isDropable"]
+  },
+
+  "10": {
+    "id": 10,
+    "weight": 0.2,
+    "title": "Очки 1",
+    "categoryId": 1,
+    "flags": ["isEquippable", "isDropable"]
+  },
+  "11": {
+    "id": 11,
+    "weight": 0.2,
+    "title": "Очки 2",
+    "categoryId": 1,
+    "flags": ["isEquippable", "isDropable"]
+  },
+
+  "20": {
+    "id": 20,
+    "weight": 0.2,
+    "title": "Кулон 1",
+    "categoryId": 2,
+    "flags": ["isEquippable", "isDropable"]
+  },
+  "21": {
+    "id": 21,
+    "weight": 0.2,
+    "title": "Кулон 2",
+    "categoryId": 2,
+    "flags": ["isEquippable", "isDropable"]
+  },
+
+  "30": {
+    "id": 30,
+    "weight": 0.2,
+    "title": "Галстук 1",
+    "categoryId": 3,
+    "flags": ["isEquippable", "isDropable"]
+  },
+  "31": {
+    "id": 31,
+    "weight": 0.2,
+    "title": "Галстук 2",
+    "categoryId": 3,
+    "flags": ["isEquippable", "isDropable"]
+  },
+
+  "40": {
+    "id": 40,
+    "weight": 0.2,
+    "title": "Часы 1",
+    "categoryId": 4,
+    "flags": ["isEquippable", "isDropable"]
+  },
+  "41": {
+    "id": 41,
+    "weight": 0.2,
+    "title": "Часы 2",
+    "categoryId": 4,
+    "flags": ["isEquippable", "isDropable"]
+  },
+
+  "50": {
+    "id": 50,
+    "weight": 0.2,
+    "title": "Перчатки 1",
+    "categoryId": 5,
+    "flags": ["isEquippable", "isDropable"]
+  },
+  "51": {
+    "id": 51,
+    "weight": 0.2,
+    "title": "Перчатки 2",
+    "categoryId": 5,
+    "flags": ["isEquippable", "isDropable"]
+  },
+
+  "60": {
+    "id": 60,
+    "weight": 0.2,
+    "title": "Телефон 1",
+    "categoryId": 6,
+    "flags": ["isEquippable", "isDropable"]
+  },
+  "61": {
+    "id": 61,
+    "weight": 0.2,
+    "title": "Телефон 2",
+    "categoryId": 6,
+    "flags": ["isEquippable", "isDropable"]
+  },
+
+  "70": {
+    "id": 70,
+    "weight": 0.2,
+    "title": "Рюкзак 1",
+    "categoryId": 7,
+    "flags": ["isEquippable", "isDropable"]
+  },
+  "71": {
+    "id": 71,
+    "weight": 0.2,
+    "title": "Рюкзак 2",
+    "categoryId": 7,
+    "flags": ["isEquippable", "isDropable"]
+  },
+
+  "80": {
+    "id": 80,
+    "weight": 0.2,
+    "title": "Кепка 1",
+    "categoryId": 8,
+    "flags": ["isEquippable", "isDropable"]
+  },
+  "81": {
+    "id": 81,
+    "weight": 0.2,
+    "title": "Кепка 2",
+    "categoryId": 8,
+    "flags": ["isEquippable", "isDropable"]
+  },
+
+  "90": {
+    "id": 90,
+    "weight": 0.2,
+    "title": "Шарф 1",
+    "categoryId": 9,
+    "flags": ["isEquippable", "isDropable"]
+  },
+  "91": {
+    "id": 91,
+    "weight": 0.2,
+    "title": "Шарф 2",
+    "categoryId": 9,
+    "flags": ["isEquippable", "isDropable"]
+  },
+
+  "100": {
+    "id": 100,
+    "weight": 0.2,
+    "title": "Серьги 1",
+    "categoryId": 10,
+    "flags": ["isEquippable", "isDropable"]
+  },
+  "101": {
+    "id": 101,
+    "weight": 0.2,
+    "title": "Серьги 2",
+    "categoryId": 10,
+    "flags": ["isEquippable", "isDropable"]
+  },
+
+  "110": {
+    "id": 110,
+    "weight": 0.2,
+    "title": "Худи 1",
+    "categoryId": 11,
+    "flags": ["isEquippable", "isDropable"]
+  },
+  "111": {
+    "id": 111,
+    "weight": 0.2,
+    "title": "Худи 2",
+    "categoryId": 11,
+    "flags": ["isEquippable", "isDropable"]
+  },
+
+  "120": {
+    "id": 120,
+    "weight": 0.2,
+    "title": "Толстовка 1",
+    "categoryId": 12,
+    "flags": ["isEquippable", "isDropable"],
+    "slots": [
+      {
+        "id": "shirt",
+        "title": "Рубашка",
+        "capacity": 1,
+        "acceptable": {
+          "ids": ["121"]
+        }
+      }
+    ]
+  },
+  "121": {
+    "id": 121,
+    "weight": 0.2,
+    "title": "Толстовка 2",
+    "categoryId": 12,
+    "flags": ["isEquippable", "isDropable"]
+  },
+
+  "130": {
+    "id": 130,
+    "weight": 0.2,
+    "title": "Бронежилет 1",
+    "categoryId": 13,
+    "flags": ["isEquippable", "isDropable"]
+  },
+  "131": {
+    "id": 131,
+    "weight": 0.2,
+    "title": "Бронежилет 2",
+    "categoryId": 13,
+    "flags": ["isEquippable", "isDropable"]
+  },
+
+  "140": {
+    "id": 140,
+    "weight": 0.2,
+    "title": "Штаны 1",
+    "categoryId": 14,
+    "flags": ["isEquippable", "isDropable"]
+  },
+  "141": {
+    "id": 141,
+    "weight": 0.2,
+    "title": "Штаны 2",
+    "categoryId": 14,
+    "flags": ["isEquippable", "isDropable"]
+  },
+
+  "150": {
+    "id": 150,
+    "weight": 0.2,
+    "title": "Обувь 1",
+    "categoryId": 15,
+    "flags": ["isEquippable", "isDropable"]
+  },
+  "151": {
+    "id": 151,
+    "weight": 0.2,
+    "title": "Обувь 2",
+    "categoryId": 15,
+    "flags": ["isEquippable", "isDropable"]
+  }
+
+
+}

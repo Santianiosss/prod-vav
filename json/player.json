@@ -1,0 +1,257 @@
+{
+  "name": "Имярек",
+  "gender": "male",
+  "appearance": {
+    "1": {
+      "value": 3,
+      "mainColor": 2,
+      "secondaryColor": 5,
+      "opacity": 0.75
+    },
+    "2": {
+      "value": 4,
+      "mainColor": 7,
+      "opacity": 0.75
+    }
+  },
+  "stats": {
+    "health": {
+      "value": 45,
+      "max": 105
+    },
+    "thirst": {
+      "value": 35
+    },
+    "satiety": {
+      "value": 25
+    },
+    "energy": {
+      "value": 65
+    },
+    "addict": {
+      "value": 75
+    },
+    "immunity": {
+      "value": 85
+    }
+  },
+  "inventoryCapacity": 35,
+  "inventory": [
+    {
+      "hash": "1",
+      "id": "877989771",
+      "amount": 1
+    },
+    {
+      "hash": "2",
+      "id": "124665681",
+      "amount": 2
+    },
+    {
+      "hash": "3",
+      "id": "163625249",
+      "amount": 1
+    },
+    {
+      "hash": "4",
+      "id": "454878707",
+      "amount": 1
+    },
+    {
+      "hash": "5",
+      "id": "630618139",
+      "amount": 1
+    },
+    {
+      "hash": "6",
+      "id": "868900323",
+      "amount": 1
+    },
+    {
+      "hash": "7",
+      "id": "1259623218",
+      "amount": 1
+    },
+    {
+      "hash": "8",
+      "id": "1930840676",
+      "amount": 1
+    },
+    {
+      "hash": "9",
+      "id": "1934688961",
+      "amount": 1
+    },
+    {
+      "hash": "10",
+      "id": "10",
+      "amount": 1
+    },
+    {
+      "hash": "11",
+      "id": "11",
+      "amount": 1
+    },
+    {
+      "hash": "12",
+      "id": "20",
+      "amount": 1
+    },
+    {
+      "hash": "13",
+      "id": "21",
+      "amount": 1
+    },
+    {
+      "hash": "14",
+      "id": "30",
+      "amount": 1
+    },
+    {
+      "hash": "15",
+      "id": "31",
+      "amount": 1
+    },
+    {
+      "hash": "16",
+      "id": "40",
+      "amount": 1
+    },
+    {
+      "hash": "17",
+      "id": "41",
+      "amount": 1
+    },
+    {
+      "hash": "18",
+      "id": "50",
+      "amount": 1
+    },
+    {
+      "hash": "19",
+      "id": "51",
+      "amount": 1
+    },
+    {
+      "hash": "20",
+      "id": "60",
+      "amount": 1
+    },
+    {
+      "hash": "21",
+      "id": "61",
+      "amount": 1
+    },
+    {
+      "hash": "22",
+      "id": "70",
+      "amount": 1
+    },
+    {
+      "hash": "23",
+      "id": "71",
+      "amount": 1
+    },
+    {
+      "hash": "24",
+      "id": "80",
+      "amount": 1
+    },
+    {
+      "hash": "25",
+      "id": "81",
+      "amount": 1
+    },
+    {
+      "hash": "27",
+      "id": "90",
+      "amount": 1
+    },
+    {
+      "hash": "28",
+      "id": "91",
+      "amount": 1
+    },
+    {
+      "hash": "29",
+      "id": "100",
+      "amount": 1
+    },
+    {
+      "hash": "30",
+      "id": "101",
+      "amount": 1
+    },
+    {
+      "hash": "31",
+      "id": "110",
+      "amount": 1
+    },
+    {
+      "hash": "32",
+      "id": "111",
+      "amount": 1
+    },
+    {
+      "hash": "33",
+      "id": "120",
+      "amount": 1
+    },
+    {
+      "hash": "34",
+      "id": "121",
+      "amount": 1
+    },
+    {
+      "hash": "35",
+      "id": "130",
+      "amount": 1
+    },
+    {
+      "hash": "36",
+      "id": "131",
+      "amount": 1
+    },
+    {
+      "hash": "37",
+      "id": "140",
+      "amount": 1
+    },
+    {
+      "hash": "38",
+      "id": "141",
+      "amount": 1
+    },
+    {
+      "hash": "39",
+      "id": "150",
+      "amount": 1
+    },
+    {
+      "hash": "40",
+      "id": "151",
+      "amount": 1
+    }
+
+  ],
+  "slots": {
+    "glass": false,
+    "pendant": false,
+    "tie": false,
+    "watch": false, 
+    "gloves": false, 
+    "smartphone": false,
+    "backpack": false,
+    "cap": false,
+    "scarf": false,
+    "earrings": false, 
+    "hoody": false, 
+    "jacket": false,
+    "bulletproofVest": false, 
+    "pants": false, 
+    "footwear": false,
+    "knife": false,
+    "pistol": false,
+    "gun": false
+  }
+}

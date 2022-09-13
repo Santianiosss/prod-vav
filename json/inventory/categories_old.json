@@ -1,0 +1,141 @@
+{
+  "100": {
+    "id": 100,
+    "title": "Дилды",
+    "description": "Описание категории - Дилды",
+    "icon": "items/mask.svg"
+  },
+  "101": {
+    "id": 101,
+    "title": "Моторы",
+    "description": "Описание категории - Моторы",
+    "icon": "gear.svg"
+  },
+  "102": {
+    "id": 102,
+    "title": "Колючки",
+    "description": "Описание категории - Колючки",
+    "icon": "gear.svg"
+  },
+  "103": {
+    "id": 103,
+    "title": "Усики",
+    "description": "Описание категории - Усики",
+    "icon": "gear.svg"
+  },
+  "104": {
+    "id": 104,
+    "title": "Щекотунчики",
+    "description": "Описание категории - Щекотунчики",
+    "icon": "gear.svg"
+  },
+
+  "1": {
+    "id": 1,
+    "title": "Очки",
+    "description": "Описание категории - Очки",
+    "icon": "items/glasses.svg"
+  },
+  "2": {
+    "id": 2,
+    "title": "Кулоны",
+    "description": "Описание подкатегории - Кулоны",
+    "icon": "items/necklace.svg"
+  },
+  "3": {
+    "id": 3,
+    "title": "Галстуки",
+    "description": "Описание подкатегории - Галстуки",
+    "icon": "items/tie.svg"
+  },
+  "4": {
+    "id": 4,
+    "title": "Часы",
+    "description": "Описание категории - Часы",
+    "icon": "items/watch.svg"
+  },
+  "5": {
+    "id": 5,
+    "title": "Перчатки",
+    "description": "Описание категории - Перчатки",
+    "icon": "items/gloves.svg"
+  },
+  "6": {
+    "id": 6,
+    "title": "Телефон",
+    "description": "Описание категории - Телефон",
+    "icon": "items/smartphone.svg"
+  },
+  "7": {
+    "id": 7,
+    "title": "Рюкзак",
+    "description": "Описание категории - Рюкзак",
+    "icon": "items/backpack.svg"
+  },
+  "8": {
+    "id": 8,
+    "title": "Кепка",
+    "description": "Описание категории - Кепка",
+    "icon": "items/cap.svg"
+  },
+  "9": {
+    "id": 9,
+    "title": "Шарф",
+    "description": "Описание категории - Шарф",
+    "icon": "items/scarf.svg"
+  },
+  "10": {
+    "id": 10,
+    "title": "Серьги",
+    "description": "Описание категории - Серьги",
+    "icon": "items/earring.svg"
+  },
+  "11": {
+    "id": 11,
+    "title": "Худи",
+    "description": "Описание категории - Худи",
+    "icon": "items/hoody.svg"
+  },
+  "12": {
+    "id": 12,
+    "title": "Толстовка",
+    "description": "Описание категории - Толстовка",
+    "icon": "items/jacket.svg"
+  },
+  "13": {
+    "id": 13,
+    "title": "Бронежилет",
+    "description": "Описание категории - Бронежилет",
+    "icon": "items/bulletproof-vest.svg"
+  },
+  "14": {
+    "id": 14,
+    "title": "Штаны",
+    "description": "Описание категории - Штаны",
+    "icon": "items/trousers.svg"
+  },
+  "15": {
+    "id": 15,
+    "title": "Обувь",
+    "description": "Описание категории - Обувь",
+    "icon": "items/footwear.svg"
+  },
+  "16": {
+    "id": 16,
+    "title": "Ножи",
+    "description": "Описание категории - Ножи",
+    "icon": "items/gloves.svg"
+  },
+  "17": {
+    "id": 17,
+    "title": "Пистолеты",
+    "description": "Описание категории - Пистолеты",
+    "icon": "items/gloves.svg"
+  },
+  "18": {
+    "id": 18,
+    "title": "Автоматы",
+    "description": "Описание категории - Автоматы",
+    "icon": "items/gloves.svg"
+  }
+}

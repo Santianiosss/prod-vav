@@ -1,0 +1,32 @@
+{
+  "049271fb-858e-45bb-bc07-92279355f022": {
+    "id": "049271fb-858e-45bb-bc07-92279355f022",
+    "title": "Одежда",
+    "icon": "clothes/t-shirt.svg"
+  },
+  "c0213816-e74a-483e-b506-e189ccaf8def": {
+    "id": "c0213816-e74a-483e-b506-e189ccaf8def",
+    "title": "Оружие",
+    "icon": "weapon/assault-rifle/carbinerifle.png"
+  },
+  "a34ed5ce-9d19-47d4-b6fd-d96ad3c60248": {
+    "id": "a34ed5ce-9d19-47d4-b6fd-d96ad3c60248",
+    "title": "Еда",
+    "icon": "food/hamburger.svg"
+  },
+  "e0154170-a322-4a32-94d1-659916935141": {
+    "id": "e0154170-a322-4a32-94d1-659916935141",
+    "title": "Медикаменты",
+    "icon": "box.svg"
+  },
+  "d2ddf610-8c5e-4ba8-aaf8-9bbddc978578": {
+    "id": "d2ddf610-8c5e-4ba8-aaf8-9bbddc978578",
+    "title": "Электроника",
+    "icon": "box.svg"
+  },
+  "c45ca0b2-707d-4e17-b20a-99d204bbd475": {
+    "id": "c45ca0b2-707d-4e17-b20a-99d204bbd475",
+    "title": "Разное",
+    "icon": "box.svg"
+  }
+}
